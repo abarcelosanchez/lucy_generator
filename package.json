@@ -1,0 +1,19 @@
+{
+  "name": "lucy",
+  "version": "1.0.0",
+  "description": "AWS terraform code and CI code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abarcelosanchez/lucy_generator.git"
+  },
+  "author": "Alejandro Barcelo Sanchez",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/abarcelosanchez/lucy_generator/issues"
+  },
+  "homepage": "https://github.com/abarcelosanchez/lucy_generator#readme"
+}
